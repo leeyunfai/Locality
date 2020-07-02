@@ -1,0 +1,137 @@
+
+@media only screen and (max-width:1200px){
+
+
+    .hero-text-box{
+        width:100%;
+        padding:0 2%;
+    }
+    
+    .row {padding: 0 2%;}
+}
+
+@media only screen and (max-width: 1100px){
+    body{font-size: 16px;}
+    section{padding: 100px 0;}
+    
+    .hero-text-box{
+        width: 80%;
+        padding-left: 15%;
+    }
+    
+    .long-copy{
+        line-height:145%;
+        width:70%;
+        margin-left:15%;
+    }
+
+    .section-steps img{
+        width: 70%;
+    }
+    
+}
+
+@media only screen and (max-width: 1000px){
+    body{font-size: 16px;}
+    section{padding: 100px 0;}
+    
+    .hero-text-box{
+        width: 80%;
+        padding-left: 30%;
+    }
+    
+    .long-copy{
+        line-height:145%;
+        width:70%;
+        margin-left:15%;
+    }
+    
+    .steps-box {margin-top: 10px;}
+    .steps-box:last-child {margin-top:10px;}
+    .works-steps {margin-bottom: 40px;}
+    .work-steps:last-of-type {margin-bottom: 60px;}
+    
+    .section-steps img{
+        width: 70%;
+    }
+    .icon-small{width: 17px;}
+    .city-feature{font-size: 90%}
+    
+    .plan-box{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    .plan-price{font-size:150%;}
+    .contact-form{width:80%;}
+    
+    .section-plans{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+    h1{
+        font-size: 100%;
+    }
+    
+    h2{
+        font-size: 80%;
+    }
+    
+    h3{
+        font-size: 50%;
+    }
+    
+    body{font-size: 16px;}
+    section{padding: 30px 0;}
+    
+
+    .hero-text-box{
+        font-size: 50%;
+        width: 20%;
+        padding-left: 385px;
+        margin-top: 70px;
+    }
+    
+    .col{
+        width:100%;
+        margin: 0 0 4% 0;
+    }
+    
+    main-nav{display: none;}
+
+    h1 {font-size: 180%;}
+    h2 {font-size: 150%;}
+    
+    
+    .long-copy{
+    width:100%;
+    margin-left:15%;
+    }
+    
+    .work-step{
+        margin-bottom: 25px;
+    }
+    
+    .work-step:last-child{
+        margin-bottom: 10px;
+    }
+    
+    .section-steps img{
+        width: 50%;
+        margin: 0 20%;
+    }
+    
+
+    
+    .boxie{
+        width: 100%;
+        height: auto;
+        font-size: 50%;
+        line-height: 100%;
+    }
+}
+
+
